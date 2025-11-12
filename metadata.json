@@ -1,0 +1,7 @@
+{
+  "name": "Copy of App de relacionamento ",
+  "description": "A modern, dopamine-driven, and highly secure dating app that uses AI for intelligent matches. Connect with people based on energy, affinity, and lifestyle.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
